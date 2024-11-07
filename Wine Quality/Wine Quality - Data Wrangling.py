@@ -1,8 +1,5 @@
 import pandas as pd
 
-### https://www.kaggle.com/code/kardelenolakolu/swe584-term-project
-### https://www.kaggle.com/code/lizk75/red-wine-svm-90-accuracy
-#df = pd.read_csv("D:\\PyCharm\\BroCode\\Data\\WineQT.csv")
 df= pd.read_csv("Data/WineQT.csv")
 print(df.head())
 
